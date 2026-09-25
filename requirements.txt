@@ -1,0 +1,11 @@
+numpy
+scipy
+pyyaml
+neuprint-python
+torch
+torch-geometric
+gymnasium
+stable-baselines3
+opencv-python
+mss
+pydirectinput
