@@ -1,0 +1,16 @@
+window:
+  title_regex: "Minecraft"
+
+capture:
+  fps: 15
+
+perception:
+  roi_start: 0.3
+  
+actions:
+  forward: "W"
+  back: "S"
+  left: "A"
+  right: "D"
+  jump: "SPACE"
+  attack: "MOUSE_LEFT"
